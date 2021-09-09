@@ -1,0 +1,14 @@
+{
+  "name": "smartcontract-to-telegram",
+  "version": "1.0.0-beta",
+  "description": "A listener and publisher of SmartContract events",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "Ata369taheri@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "5.4.5",
+    "web3": "1.5.2",
+    "telegraf": "4.4.1"
+  }
+}
